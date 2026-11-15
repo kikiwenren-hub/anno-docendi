@@ -1,0 +1,15 @@
+﻿id,name,longitude,latitude,start_year,end_year,period,region,method,description
+nippur,Nippur scribal school,45.2,32.1,-3000,-1700,Bronze Age,Mesopotamia,Scribal,Boys copied sign lists and Sumerian literature onto clay tablets in a school called the edubba.
+life,House of Life,31.3,30.1,-2500,-300,Bronze Age,Egypt,Scribal,"Temple scriptoria trained scribes in hieratic writing, medicine, and astronomy."
+country,Songlines and Country,134,-25,-3000,1800,Bronze Age,Australia,Oral,"Aboriginal knowledge of land, law, and stars passed down through song, story, and ceremony."
+academy,Plato's Academy,23.7,38,-387,529,Classical antiquity,Greece,Philosophical,Students learned mathematics and dialectic through dialogue. It closed by edict of Justinian.
+taixue,Taixue imperial academy,108.9,34.3,-124,220,Classical antiquity,China,Civic,"Han emperors trained officials in the Confucian classics, the root of the later examination system."
+nalanda,Nalanda mahavihara,85.4,25.1,427,1197,Classical antiquity,India,Religious,A Buddhist monastic university that drew students from across Asia for debate and logic.
+wisdom,House of Wisdom,44.4,33.3,830,1258,Early medieval,Iraq,Scholarly,"Baghdad scholars translated Greek, Persian, and Indian texts into Arabic and extended them."
+qarawiyyin,Al-Qarawiyyin,-5,34,859,1800,Early medieval,Morocco,Religious,"Founded in Fez, it taught law, grammar, and astronomy and still operates."
+wananga,Whare wananga,175.5,-38,1000,1800,High medieval,New Zealand,Oral,"Maori houses of learning taught genealogy, navigation, and ritual to selected students."
+bologna,University of Bologna,11.3,44.5,1088,1800,High medieval,Italy,Scholarly,A guild of students hired lecturers in law. It is the oldest continuous degree-granting university.
+sankore,Sankore Madrasa,-3,16.8,1300,1591,High medieval,Mali,Religious,Timbuktu scholars copied manuscripts and taught Islamic law and mathematics.
+calmecac,Calmecac,-99.1,19.4,1325,1521,High medieval,Mexico,Civic,"Aztec nobles' children studied priesthood, astronomy, and law in strict residential schools."
+yachay,Yachay Wasi,-72,-13.5,1438,1533,High medieval,Peru,Civic,"Inca nobles learned quipu record keeping, Quechua, and history in Cusco."
+harvard,Harvard College,-71.1,42.4,1636,1800,Early modern,United States,Scholarly,"The first colonial college trained clergy through Latin, Greek, and logic."

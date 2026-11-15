@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Sumer",
+  "at": [46, 30 ],
+  "from": -3000,
+  "to": -2000
+ },
+ {
+  "name": "Egypt",
+  "at": [30, 25 ],
+  "from": -3000,
+  "to": -30
+ },
+ {
+  "name": "Shang and Zhou",
+  "at": [112, 33 ],
+  "from": -1600,
+  "to": -250
+ },
+ {
+  "name": "Indus cities",
+  "at": [70, 28 ],
+  "from": -3000,
+  "to": -1500
+ },
+ {
+  "name": "Greek poleis",
+  "at": [22, 40 ],
+  "from": -800,
+  "to": -146
+ },
+ {
+  "name": "Han China",
+  "at": [110, 36 ],
+  "from": -202,
+  "to": 220
+ },
+ {
+  "name": "Roman Empire",
+  "at": [12, 42 ],
+  "from": -27,
+  "to": 476
+ },
+ {
+  "name": "Gupta Empire",
+  "at": [78, 24 ],
+  "from": 320,
+  "to": 550
+ },
+ {
+  "name": "Byzantium",
+  "at": [30, 40 ],
+  "from": 395,
+  "to": 1453
+ },
+ {
+  "name": "Abbasid Caliphate",
+  "at": [44, 32 ],
+  "from": 750,
+  "to": 1258
+ },
+ {
+  "name": "Tang and Song China",
+  "at": [112, 34 ],
+  "from": 618,
+  "to": 1279
+ },
+ {
+  "name": "Ghana and Mali",
+  "at": [-3, 14 ],
+  "from": 700,
+  "to": 1500
+ },
+ {
+  "name": "Maya cities",
+  "at": [-90, 17 ],
+  "from": 250,
+  "to": 900
+ },
+ {
+  "name": "Aztec Triple Alliance",
+  "at": [-100, 20 ],
+  "from": 1428,
+  "to": 1521
+ },
+ {
+  "name": "Inca Empire",
+  "at": [-72, -14 ],
+  "from": 1438,
+  "to": 1533
+ },
+ {
+  "name": "Holy Roman Empire",
+  "at": [10, 49 ],
+  "from": 962,
+  "to": 1800
+ },
+ {
+  "name": "Ottoman Empire",
+  "at": [36, 38 ],
+  "from": 1299,
+  "to": 1800
+ },
+ {
+  "name": "Ming and Qing China",
+  "at": [112, 34 ],
+  "from": 1368,
+  "to": 1800
+ },
+ {
+  "name": "Mughal Empire",
+  "at": [78, 24 ],
+  "from": 1526,
+  "to": 1800
+ },
+ {
+  "name": "Thirteen Colonies",
+  "at": [-78, 38 ],
+  "from": 1607,
+  "to": 1800
+ }
+]
